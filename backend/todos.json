@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1757498481198,
+    "text": "Test todo item",
+    "completed": false,
+    "createdAt": "2025-09-10T10:01:21.198Z"
+  },
+  {
+    "id": 1757498532084,
+    "text": "Learn how to use the todo app",
+    "completed": false,
+    "createdAt": "2025-09-10T10:02:12.084Z"
+  }
+]
